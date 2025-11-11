@@ -18,7 +18,6 @@ The system helps contractors and vendors manage **material sourcing**, **supply 
 ## 🧰 Technologies Used
 - **React.js**
 - **HTML5 / CSS3 / JavaScript**
-- **Tailwind CSS**
 - **Local Storage API**
 
 ---
